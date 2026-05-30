@@ -37,8 +37,5 @@ g++ -std=c++17 -o combat_game *.cpp -lsfml-graphics -lsfml-window -lsfml-system
 
 ---
 
-## Pixelart
-Drawn by me
-
 ## License
-Educational project for learning purposes.
+Educational project for learning purposes. Made by OrlokiOki.
